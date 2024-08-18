@@ -4,7 +4,7 @@ A simple web-based Stone Paper Scissors game created using HTML, CSS, and JavaSc
 
 ## Live Demo
 
-Check out the live version of the game [here](https://ash10blaze.github.io/Stone-Paper-Scissors/).
+Check out the live version of the game [here](https://ashu-dev7.github.io/Stone-Paper-Scissors/).
 
 ## Features
 
@@ -18,19 +18,19 @@ To run this game locally, follow these steps:
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/ash10blaze/Stone-Paper-Scissors.git
-    ```
+   ```bash
+   git clone https://github.com/ash10blaze/Stone-Paper-Scissors.git
+   ```
 
 2. **Navigate to the project directory:**
 
-    ```bash
-    cd Stone-Paper-Scissors
-    ```
+   ```bash
+   cd Stone-Paper-Scissors
+   ```
 
 3. **Open `index.html` in your web browser:**
 
-    You can simply double-click on the `index.html` file or open it with your preferred web browser.
+   You can simply double-click on the `index.html` file or open it with your preferred web browser.
 
 ## Usage
 
